@@ -2,16 +2,16 @@
 
 初始用户名 pi，密码为 raspberry
 
-树莓派 VNC Viewer 远程桌面配置教程
+树莓派 VNC Viewer 远程桌面配置教程：
 https://shumeipai.nxez.com/2018/08/31/raspberry-pi-vnc-viewer-configuration-tutorial.html
 
-树莓派手动玩(开启SSH,VNC)
+树莓派手动玩(开启SSH,VNC)：
 https://www.jianshu.com/p/a011d01bdf51
 
 在树莓派上安装vnc服务端（debian）：
 sudo apt-get install tightvncserver
 
-手工启动
+手工启动：
 tightvncserver
 
 New 'X' desktop is raspberrypi:1
