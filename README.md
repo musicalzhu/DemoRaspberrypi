@@ -2,6 +2,8 @@
 
 初始用户名 pi，密码为 raspberry
 
+获取树莓派ip地址：ifconfig
+
 树莓派 VNC Viewer 远程桌面配置教程：
 https://shumeipai.nxez.com/2018/08/31/raspberry-pi-vnc-viewer-configuration-tutorial.html
 
