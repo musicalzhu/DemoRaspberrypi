@@ -44,7 +44,7 @@ sudo shutdown -h now
 --  Arduino GRBL CNC 数控机器人  
 --  通过树莓派发送语音识别好的指令，通过Arduino控制magic chess机械臂移动  
   
-在线视频教程和软件下载链接：http://aelab.net/aedraw_tuto/，花点时间详细看一下教程视频比自己折腾问题少很多~~~///(^v^)\\\~~~。  
+在线视频教程和软件下载链接：http://aelab.net/aedraw_tuto/  花点时间详细看一下教程视频比自己折腾问题少很多  
 除了软件里提供的ae在线字体，还可以在http://cnhershey.github.io/ 更多字体  
   
   
