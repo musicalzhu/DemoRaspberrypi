@@ -38,9 +38,4 @@ Advanced Options - Audio
 
 3.5mm
 
-Raspberry Pi Snowboy Hotword Detection
-
-https://pimylifeup.com/raspberry-pi-snowboy/
-
-
 sudo shutdown -h now
