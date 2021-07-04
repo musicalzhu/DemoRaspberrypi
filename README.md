@@ -38,7 +38,8 @@ sudo raspi-config
 
 Audio 3.5mm
 
-sudo shutdown -h now
+树莓派重启指令 sudo reboot  
+树莓派关机指令 sudo shutdown -h now  
 
 
 --  Arduino GRBL CNC 数控机器人  
